@@ -1,276 +1,52 @@
-<p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
-</p>
+## Hi there 👋, I am Kaouther Saoula
+## [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kouthersaoula/)](https://www.linkedin.com/in/Kaouthersaoula/) 
 
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
-<h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
+ ### 😛 About Me
+ - I’m a **Senior Data Engineer** passionate about modern data platforms and cloud architectures. I transform raw data into valuable insights by building scalable and efficient pipelines, data models, and BI dashboards.
 
-<p align="center">
-  <a href="http://hits.dwyl.com/ashutosh1919/masterPortfolio"><img alt="HitCounts" src="http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg" /></a>
-  <a href="https://nodejs.org/en/blog/release/v20.11.1"><img alt="NodeJS" src="https://img.shields.io/badge/node-20.11.1-important?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/npm/v/10.2.4"><img alt="NPM" src="https://img.shields.io/badge/npm-10.2.4-blueviolet?style=flat-square" /></a>
-  <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
-  <a href="https://join.slack.com/t/masterportfolio/shared_invite/zt-g772n1fo-Ns4usanURF8jVb8wk2lRAA"><img alt="Join Slack Channel For Support" src="https://img.shields.io/badge/slack-masterPortfolio-yellow.svg?logo=slack?style=flat-square" /></a>
-  <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
-  <br/>
-  <a href="https://app.netlify.com/sites/ashutosh1919portfolio/deploys"><img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/abf59f82-3251-4040-b24c-949b86691642/deploy-status?style=flat-square" /></a>
-  <a href="https://travis-ci.org/badges/badgerbadgerbadger"><img alt="Build Status" src="http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square?style=flat-square" /></a>
-  <a href="http://badges.mit-license.org/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-  <a href="https://github.com/ashutosh1919/masterPortfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
-  <a href="http://badges.mit-license.org/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
-  <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-  <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
-</p>
-<p align="center">If you want to discuss about something, you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
 
-<p align="center"> 
-    <a href="https://ashutosh1919.github.io" target="_blank">
-    <img src="images/masterPortfolioThemes.png"></img>
-  </a>
-</p>
+## 🚀 What I'm Working On
+🔹 Modernizing data architectures using **Snowflake**, **BigQuery**, and **dbt**  
+🔹 Developing orchestration pipelines with **Airflow**  
+🔹 Exploring data lake technologies like **Apache Iceberg**  
+🔹 Deep diving into **Google Cloud Platform**
 
-:star: Star us on GitHub — it helps!
+ ### 🎉 Portfolio Projects
+- ⛅ Cloud-based Data Pipeline: From ingestion to visualization using Snowflake + dbt + Power BI  
+- 🧠 Predictive Analytics: Machine learning project using Spark & Python  
+- 🗂️ Legacy to Modern BI: Full migration project from SSIS to cloud-native stack
 
-# Sections 📚
 
-✔️ Summary and About me\
-✔️ Skills \
-✔️ Open Source Projects Connected with Github\
-✔️ Experience\
-✔️ Certifications 🏆\
-✔️ Blogs\
-✔️ Education\
-✔️ Contact me
+ ### 📚 Actively Learning
+- Advanced **GCP services** (BigQuery, Cloud Composer, Dataflow)  
+- **Streaming architectures** with Kafka  
+- Data Governance & FinOps best practices
 
-To view a live example, **[click here](https://ashutosh1919.github.io/)**
 
-# Clone and Use 📋
 
-- The website is completely built on `react-js` library of `javascript` and that's why we need `nodejs` and `npm` installed
-- While installing `nodejs` and `npm`, try to install versions which are equal or greater than the versions mentioned in badges above
-- In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page
-- After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
-  ```bash
-   git clone https://github.com/ashutosh1919/masterPortfolio.git
-  ```
-  This will clone the whole repository in your system.
-- To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
-  ```node
-  npm install
-  ```
-- Now the project is ready to use
-- You can check it using `npm start`, it will open the website locally on your browser.
 
-# Customize it to make your own portfolio ✏️
+ ### 🛠️ Skills
+ | **Category**          | **Technologies** |
+ |-----------------------|------------------|
+ | Databases             |  ![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logoColor=white&logo=snowflake)  ![SQL-Server](https://img.shields.io/badge/-SQL%20Server-lightgrey.svg?style=flat&logo=data:image/png;base64,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) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logoColor=white&logo=postgresql)|
+ | Programming Languages | ![Python](https://img.shields.io/badge/-Python-0077B5?style=flat&logoColor=white&logo=python) ![SQL](https://img.shields.io/badge/-SQL-grey?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACoElEQVR4nO2ay2oUURCGW4igG03iOjGrGC8PYC4LkWzyAN5eIBriG2i2RiSg7tSFuPQSIYwuhDiKiT6D4EpceMEwJLhJFPNJMX8zhzZjTk9fppHzQy+mp07VX919zl9dp6MoI4CjwAVgDngAvAU+AJ+ABvBLR0Pn7L9V2c5p7EhWHqkBHAJmgCfAV/KD+XoMXLIYRSYwBTwFthIEvgFLwA1gGjhtVxg4DPQBe3X06dyIbKY1Zkk+XGwp1lSeCYzqcYnxG1jWlTuWU4w95ovmnX6pGDEs9mgW5/uBe8C2HK4BV4GBPMjvEntA88diIg63gZ60jg44d2ETuAYcLIx5ex69wLzzOL8wbmlu83Pn+R8vnPHunCacefTMOPoMOq8BP4DhqCIAhsXJcNZnwGsZz0QVAzArbnUf4w0Z90YVA80l3LDuY0yFE+mPyfkYx5iNKgbgcieJVHmy4zPAxXfgVClM/81pLFnX+QyKYaUCEqP5bswZmoJ43RHE5U4S6QFuOb/XVDYMlpDAYKJEMdwUp3SJOL/HgXeOQyvo6lrTj3uprF81cUI+X+1QNI614+edSKKMX1TtlZxHNWBBFfGkKtmhHcr4ISU/KdsFjTUfLjYV668yPnMiibX8IvAI+EJ++Aw81HtKf6f80hu27I+oPrsC3AdWgPfAR73e/tTR0Dn7741sbcy5NMs8aRMJyl4gCMpOUPZcQFD2KCh7LSh7C0HZ260UMcI7e1EgKDtB2XMBQdmjoOy1oOwFKvtGGkEs852dVhN7Pc3+SJWb2HUfY7tCVW9in/Ht+tk+Hdq3myiFqf8eYs27u6ldXfvMompN7BXvXd3EPvvdxD57t5rY28AdYF/eXz6U2cReBU5mjVG5JnZu6HYTuzCU3cSO/nf8AVSfhCTkCfBAAAAAAElFTkSuQmCC)                |
+ | Cmd                   | ![Powershell](https://img.shields.io/badge/-Powershell-0277bd.svg?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAADpElEQVR4nO2YW4hOURTH97jfZlAm11xzzS0aJCW3SHlwnZIxxYPQNBRPbuNlXpTwIMqDJNEUUi4zuTx50CQ8SCMTIoxLLgnj9tNu1pczx1nnnO+cMzNfOr/6Xr7++7/3OmefvddaxqSkpKT8VwDtgfVANfAA+Ejb8xN4DVwDloYJoitQQ+6zLiiQShG+ADYCo4F808YAXYDhQIWsr85P3BF4J8Iik4MABbK+Rj/RQhHdMTkKMELW2OAnOiSiPSEMF8tBYLdgedIL1gCWyBqv+4lui2i2KmrSFQHfXR/fXtMK8PcbrtQE+cAPWWC3ALNtykmyqaUCyADckLmWGC+A+SK45Slorh0DfPUI5BewwrQQQAfgM/AbKNREu2Ux+0Oaloqhm2/AnKSDsABTZY6HRsNxCS5TRf+O2aFsMZsJTAnrExagTPyP+6UkH0TUP7Rz09gDSjA2nRiVjVcQwCnx3qAJJougPtDt37HtgColmHqgX7aeGsBj8Z2gCTaL4ISJANAJuKoEcw/oFcXXid0p4vfJ7qBoryx86nBXCeY60Dmqt8V+u+JVYzSApyIab2IADACeKMGcU59kCIB9vhcvMFAE7+1+D2MaMOE4R+Lp5nAM35visUgTrBLB5TgBuDxnKRemZWPEb/Cr3Fu9NdFBmWBnEkE4fJcrF+bLCF7TZex9P1GtiObGXbwrbzutvJELEfy2yNhjmqC7JIr21z2hIOydVKcEcR7oEcHzjIxfrwnmiqA2oSDWAl+U/KscyIvo+0x8xmqCXSI4EDOAno6n5sbexjNieA8OPFWBKyJaGWOiaZKKeFEV91YHisXrkl+OlEkUB0WYIE+2i7tSRLZXIuUvf5PSXZpgYubVRzAvtPeO8hbux80QnNhCT3znaQLbs7KcNFkgB4RtOHhxIqhMznKurrbtI13GAk10MpubVsrMCiln3dgtWpxUAK4MwXLXaDg+0MmqqPnJkcl13Nj/hwAlcrKEwepKQsy7XfRHgnL7j0EZKTATeOuxmF/SmukguldkR2CqApwVbakmWCGC6hBmj7wWASxw6VoikJeiHakJ9mfRUcw07TLYJkVfD12iWwsYJto3akbg2O/NnqrPMf1Aiq+yJGqWMABrApNMx5MbanIUmhJMy1Y/kT2bUYuUNoamRlyjZOWD/YR3JJCjwCSgT6uuVC8pxsn2bQhVGktr3kaby1SHyhLk1qySroftFbU1X4DnwEVgdWsdKikpKSmm1fgDcX/hL3xrq5wAAAAASUVORK5CYII=) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logoColor=white&logo=git) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logoColor=white&logo=gnubash) ![OpenSSL](https://img.shields.io/badge/-OpenSSL-721412?style=flat&logoColor=white&logo=openssl)               |
+ | Cloud Technologies    | ![Azure](https://img.shields.io/badge/-Azure-114A8B.svg?style=flat&logoColor=white&logo=data:image/png;base64,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) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logoColor=white&logo=amazonwebservices)  GCP              |
+ | Visualization         | ![PowerBI](https://img.shields.io/badge/-PowerBI-FFC107?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeElEQVR4nO2Zy0rDUBBAz8quKiioqGB+SRBF/QWl/6fNuupGXQrqxk/QLMwqcmECIfTmJuTh3DIHsigzbed0OkmYgGEYhqGEGbAAHoEMKBQcmdRzC2y1kTgGXhUUXjQcL1JnYydKiS/gDJijgzlwCrxJfc9NnVlUJHbRyY7U5+q88SU9SYLrhGbOpc4HX8KPJGj5O/nYljq/fQnlMMVA0VSriQxEAqRyzVgCJ7F2xElUrxf3sYrkNRH3OkqRdVfxUG734ASYiO8XmeKso7ojaYezjmqRvMNZR7VI0aGQqEWSwAxFIxKaoWhEQjMUjUjfeBUTGWJY1XQk7TmsakTynsM6mUgmwb3Am8cqtK3Ifmj5UK6DLpSLXIbWQeWC7l2sNYocAB8Sc3vg4MrUJV8pE7kGPiv7X1evl6PaEluTSFGROKQFM2nbSpnISva9rR4rNPHfIoOxMSJ57Ut+J44PxjJwizJ2fDAS+XD3+OFuzU3j2HHDMAw2hz8sz1ws6P2ccwAAAABJRU5ErkJggg==) SSRS                |
+ | Orchestration         | ![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logoColor=white&logo=apacheairflow)                 |
+ | Transformation        | ![DBT](https://img.shields.io/badge/-DBT-FF694B?style=flat&logoColor=white&logo=dbt) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat&logoColor=white&logo=apachespark)                |
+ | Integration           | ![SSIS](https://img.shields.io/badge/-SSIS-lightgrey?style=flat&logoColor=white&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFMUlEQVR4nO2Ze2hXZRjHj+VaxQQjK7WCDPwjyr+qP/orELS8EbhRZhQkRlZesrx0heUyRIIuhN0UozDoipuXAl2RZRchy2IhE8uKslZYm7VcW/vEM7/venZ6z/bb5Xc2YV84cM7zPu/led/n+p4kGcYwEmAEMBl4GViR3hJgHvA4MHFIbhdwGnA/cJD/0Axc6HjOBRrV9g+wFZhqwidDBcApwF9a5DfAx3rf6njeEO2AhDS0AaOSoQTgEy3uCmAs8Lu+XwI26b0JOF8nYdiXDDUAT2txi/W9kP9jsdpW6PvZoWAT56VoD4QT0PfJwCKgHJgDLDCa2qrFe2tk7JPyFMQWZfgeeA1Y5Wzk3gL61zp7mg7cDbwJ/AgszdPF1hHHowWOUQq8mjFGXfGlOL6IYKhfAxcD84GNwGPelQIztfN/AEf1PiMlzG7gM+Ap4Abgp+Aw8hBkiybbA5yTwfMw2ajK6HM68K54NuQhiO3cEU34KzA31W4nYTgGLAPG6VkuGv5k1MccwrcutqwtuiCaeLwic4BXmXdEWxbpt0Jttam0JeBT4LJchEgtbIcWcLWjWdAzjMvYAENTxANWB/ecK8zfu90fCEHW57n+MPkkeZyAmZEYsTzSb2VEtRa6RPJ54My8hFgL/K3JDwPXp9pnqO2YbMJOYbyEaInYlGUJq12bOZCb8xAkqNNbwOgMnip6734vcoF2Wx6CzNVkHwJXyq1alL4zcjK1CoZHIwHxVNFqgLuAy4FDGnvqQKhNGl18uhYQ4oiH+f/yAucpVY4WQ12/iy2XlXpUR/ieVOqxW++PyFjtua2Aed53SaPFkfVKeSikvx9otmWdEfp+DXaJHsP+CF9Hap6ibRD/apdcmrpcqmeS4/1cvNNSY1xgqUqhQlQArUC7Er1S0Uvkjdp09KV6N1qJeErVp130a9y472lxsyIRG43VEbWB5zoosKSwrc8WAqmBYa/ypxCl6x1/vWg7xLM31ddc7FWq2Zsl4Fm6aPhNPLb7VqeHRNMC6S363tQXIaY7Iap03GGhAUe8ewQedLV3QL362skY/lRyGPCBHsPrGqcM+E60de70DvRFkIkyUMN1boIXtGNzggpFvNRN4jHeslSWayo2C3jCXfcYGoCzU3bl0azxel/amkdw0XOso/eYrHke3ZL8rLFWOvoo4Ha50IrIGNuAL+0SAjij1wK4gcyTbNcCavo4hun42852Ct5R5FgGBFITw770SfRUnopntNTGMDkZDABj3C1geS/K01Up3qWib8ythgDWSBV+cAtr8IbtDLelm4y1M4CafrsM2Nq/AjYXtUSlKxqVVizIyGg7DTdSQ+xM0dfp0toCXSfyEGRCVjLmqrrx3VR1jRl9S1VonfCCjLDfB3kK4lVrUYqnthvVuidDte7TDbx5N/IQZE3E2A97/+/K0xbZRMzYp6VccLjrDXfAVjGuKZogEff7kSZPxwe7iM7CQynecGGwpV8Ruj8AbtQivkjnVkosd8pmmvSerhnKdAKGKclgABgJ7NIiNvelpFTdYvW64ZXirLQHuOh9yKtEH5LGCS7TnZfkCWCKCqK2cG2vLLZGalaekcaX6OYkncZboYW8Vn6/mzlep4fCqhK4Vum8xy/AHa5PZeTGJBRW4e6qNVb/F1uYCidMwHY5gODNdjn+gz2Uuq2xuiMvYcqV8FmFtiQYvP5hGBpckdQuvpFOzSqdina5Lh0MYabH9NrV52P0v9ywJ6P/7GSoguO3HGk8k5xoAF6MCNJp/MMYRpL8CzCQYNWlpEEzAAAAAElFTkSuQmCC)                |
+ | DevOps                | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logoColor=white&logo=docker)  |
+  | Web Development       |![Jinja](https://img.shields.io/badge/-Jinja-B41717?style=flat&logoColor=white&logo=jinja) ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logoColor=white&logo=html5) |  
+  Data Streaming ||  
 
-In this project, there are basically 4 things that you need to change to customize this to anyone else's portfolio: **package.json**, **Personal Information**, **Github Information** and **Splash Logo**.
 
-### package.json
+ ### ☎️ How to Reach Me
+- You can contact me via [LinkedIn](https://www.linkedin.com/in/kaouthersaoula/).  
+ Let's connect and talk about data, cloud, or your next project!
 
-Open this file, which is in the main cloned directory, choose any "name" and change "homepage " to `https://<your-github-username>.github.io`. Do not forget the `https://`, otherwise fonts will not load.
+<br>
 
-### Personal Information
+![GitHub Views](https://komarev.com/ghpvc/?username=kaouthersaoula)
 
-You will find `src/portfolio.js` file which contains the complete information about the user. The file looks something like below:
-
-```javascript
-// Home Page
-const greeting = {
-    ...
-}
-
-// Social Media
-const socialMediaLinks = {
-    ...
-}
-
-...
-```
-
-You can change the personal information, experience, education, social media, certifications, blog information, contact information etc. in `src/portfolio.js` to directly reflect them in portfolio website.
-
-### How to change the icons on homepage under what i do section?
-
-1. This section pulls data from `skills` in portfolio.js file.
-2. Visit this website: https://icon-sets.iconify.design/
-3. Search for the skill you are looking to add.
-4. Select the icon of your choice.
-5. Copy the text beside **Selected Icon** and replace it with `fontAwesomeClassName` of that particular softwareSkill.
-
-#### How to use custom images instead of Iconify Icons?
-
-1. Add a valid image file into the `public/skills` folder
-2. Insert the image name into the `imageSrc` attribute of the particular softwareSkill
-3. Remove the `fontAwesomeClassName` property or leave it empty because it takes precedence over `imageSrc`
-4. Add custom styling to the `img` using the `style` Property
-
-### Github Information
-
-You will find `git_data_fetcher.mjs` file in the main directory of the repository. This file is used to fetch the data (Pull requests, Issues, Organizations, Pinned projects etc.) from your github.
-
-In the project you will see a `env.example` file, create a new file named `.env` and copy contents of `env.example` into it. In that file, you will see the following environment variables
-
-```javascript
-GITHUB_TOKEN = your_token;
-GITHUB_USERNAME = your_username;
-```
-
-You can get a github token as described [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Give all permissions while generating token. Add your github username and the token generated in `GITHUB_USERNAME` and `GITHUB_TOKEN` variables in the .env file.
-
-Now, you need to run following command. (Make sure you executed `npm install` before this)
-
-**Warning:** Treat your tokens like passwords and keep them secret. When working with the API, use tokens as environment variables instead of hardcoding them into your programs.
-
-```node
-node git_data_fetcher.mjs
-```
-
-This will fetch all the data from your github and it will automatically replace my data with yours.
-Whenever you want to update the github related information on the website you need to run this command.
-
-### Splash Logo
-
-Note here that if you click [my portfolio](https://ashutosh1919.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
-Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
-
-- If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo
-- If you don't want Splash screen or you don't know how to design logo, then this option is for you
-
-  - You can open `src/portfolio.js` file and at the top of this file you will see `settings` component as below:
-    ```javascript
-    // Website related settings
-    const settings = {
-      isSplash: true,
-    };
-    ```
-  - Change `isSplash` from `true` to `false`
-  - Now, if you see your website using `npm start`, it will directly open `home` rather than animating logo `splash` screen
-  - If you design your logo in future, then edit the files in `./src/components/Loader` and then revert `isSplash` to `true` in `src/portfolio.js`.
-
-## Other
-
-- You need to change the website title and other descriptions in `public/index.html`
-- You can define your own favicon in `public/icons` directory. If you don't have a favicon, you can generate favicons from [Favicon Generator](https://www.favicon-generator.org/) and [Favicon IO](https://favicon.io/)
-- You can also edit your website preview (known as description image). Run your site locally, take a screenshot and replace with `public/icons/desc.png`. Note that your screenshot should be 1280x640 for better preview.
-
-# Choose Theme 🌈
-
-- You can take a look at `src/theme.js` file where all available themes are mentioned with their respective color codes
-- At the bottom of this file you will see the below code:
-  - `export const chosenTheme = blueTheme;`
-  - You need to change the name from `blueTheme` to whatever theme you want to set your website to
-  - You can define new theme similarly as other themes and you can assign name of that new defined theme to `chosenTheme`
-- That's it. You just need to change the theme name and the code will take care of everything else
-- Run `npm start` to check if everything is ok.
-
-# Deployment 📦
-
-- Once you are done with your setup and have successfully completed all steps above, you need to put your website online!
-- I highly recommend using [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to achieve this the EASIEST WAY.
-- To deploy your website, you have two options. First you need to create a github repository with the name `<your-github-username>.github.io`. Please don't give it any other name.
-- Now, you need to generate a production build and deploy the website.
-
-**Option 1:**
-
-- Run `npm run build` to generate the production build folder.
-- Enter the build folder, `git init` and push the generated code to the `master` branch of your new repository on github. That's it. It's Done.
-- You may need to `git init` and force push at every new build.
-
-**Option 2 (will not work with [user pages](https://docs.github.com/en/github/working-with-github-pages/about-github-pages)):**
-
-- Run `npm run deploy` to build and create a branch called `gh-pages`. It will push the `build` files to that branch.
-- The last step in deploying is to enable `Github Pages` in settings of the repository and select `gh-pages` branch.
-
-Now, your website is successfully deployed and you can visit it at `<your-github-username>.github.io`.  
-If you are stuck somewhere and want to observe the deployment process in depth, then please watch below video.
-
-<p align="center"> 
-    <a href="http://www.youtube.com/watch?v=IwBS39TOmpA" target="_blank">
-    <img src="http://img.youtube.com/vi/IwBS39TOmpA/0.jpg"></img>
-  </a>
-</p>
-
-# Technologies used 🛠️
-
-- [React](https://reactjs.org/)
-- [graphql](https://graphql.org/)
-- [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
-- [baseui](https://github.com/uber/baseweb)
-- [react-reveal](https://www.react-reveal.com/)
-- [styled-components](https://styled-components.com/)
-
-# illustrations 🍥
-
-- [UnDraw](https://undraw.co/illustrations)
-
-# License 📄
-
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
-
-# Contributors ✨
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://ashutosh1919.github.io"><img src="https://avatars3.githubusercontent.com/u/20843596?s=460&u=7f184b911f73ae1dc5765ab686fff2b2e984830f&v=4?s=100" width="100px;" alt="Ashutosh Hathidara"/><br /><sub><b>Ashutosh Hathidara</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Code">💻</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ashutosh1919" title="Documentation">📖</a> <a href="#design-ashutosh1919" title="Design">🎨</a> <a href="#maintenance-ashutosh1919" title="Maintenance">🚧</a> <a href="#ideas-ashutosh1919" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://danielmarostica.github.io/"><img src="https://avatars3.githubusercontent.com/u/3595998?v=4?s=100" width="100px;" alt="Daniel Marostica"/><br /><sub><b>Daniel Marostica</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=danielmarostica" title="Documentation">📖</a> <a href="#design-danielmarostica" title="Design">🎨</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://dineshnadimpalli.com"><img src="https://avatars2.githubusercontent.com/u/13104926?v=4?s=100" width="100px;" alt="Dinesh Nadimpalli"/><br /><sub><b>Dinesh Nadimpalli</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=dineshnadimpalli" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://jivthesh.github.io"><img src="https://avatars3.githubusercontent.com/u/20579980?v=4?s=100" width="100px;" alt="Jivthesh M R"/><br /><sub><b>Jivthesh M R</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=jivthesh" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://jatinchauhan.tech"><img src="https://avatars2.githubusercontent.com/u/40722235?v=4?s=100" width="100px;" alt="Jatin Chauhan"/><br /><sub><b>Jatin Chauhan</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=mrjatinchauhan" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://th3c0d3br34ker.github.io/"><img src="https://avatars1.githubusercontent.com/u/60807938?v=4?s=100" width="100px;" alt="Jainam Desai"/><br /><sub><b>Jainam Desai</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=th3c0d3br34ker" title="Code">💻</a> <a href="#question-th3c0d3br34ker" title="Answering Questions">💬</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://miftaulmannan.wordpress.com/"><img src="https://avatars0.githubusercontent.com/u/42533823?v=4?s=100" width="100px;" alt="Miftaul Mannan"/><br /><sub><b>Miftaul Mannan</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=Tasin5541" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://a-mishra.github.io"><img src="https://avatars0.githubusercontent.com/u/10567548?v=4?s=100" width="100px;" alt="Ashutosh Mishra"/><br /><sub><b>Ashutosh Mishra</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=a-mishra" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://tamojit.wixsite.com/mrtamojit"><img src="https://avatars0.githubusercontent.com/u/40804626?v=4?s=100" width="100px;" alt="Tamojit"/><br /><sub><b>Tamojit</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=tamojit-123" title="Documentation">📖</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=tamojit-123" title="Code">💻</a> <a href="#design-tamojit-123" title="Design">🎨</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://prabin-karki.com.np"><img src="https://avatars.githubusercontent.com/u/43983896?v=4?s=100" width="100px;" alt="Prabin Karki"/><br /><sub><b>Prabin Karki</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=githubprabin143" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://praveen.science/"><img src="https://avatars.githubusercontent.com/u/1830380?v=4?s=100" width="100px;" alt="Praveen Kumar Purushothaman"/><br /><sub><b>Praveen Kumar Purushothaman</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=praveenscience" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://baul.ml"><img src="https://avatars.githubusercontent.com/u/33395806?v=4?s=100" width="100px;" alt="paul"/><br /><sub><b>paul</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=baulml" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SandipDhang"><img src="https://avatars.githubusercontent.com/u/50694884?v=4?s=100" width="100px;" alt="Sandip Dhang"/><br /><sub><b>Sandip Dhang</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=SandipDhang" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ioribrn"><img src="https://avatars.githubusercontent.com/u/43734587?v=4?s=100" width="100px;" alt="Jawad Moustadif"/><br /><sub><b>Jawad Moustadif</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=ioribrn" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/priyanshk20"><img src="https://avatars.githubusercontent.com/u/52736997?v=4?s=100" width="100px;" alt="Priyansh Khandelwal"/><br /><sub><b>Priyansh Khandelwal</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=priyanshk20" title="Code">💻</a> <a href="#design-priyanshk20" title="Design">🎨</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/abdslam01"><img src="https://avatars.githubusercontent.com/u/59281502?v=4?s=100" width="100px;" alt="Abdessalam Bahafid"/><br /><sub><b>Abdessalam Bahafid</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=abdslam01" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://dhruvkrishnavaid.github.io"><img src="https://avatars.githubusercontent.com/u/69188774?v=4?s=100" width="100px;" alt="Dhruv Krishna Vaid"/><br /><sub><b>Dhruv Krishna Vaid</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=dhruvkrishnavaid" title="Code">💻</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=dhruvkrishnavaid" title="Documentation">📖</a> <a href="#ideas-dhruvkrishnavaid" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-dhruvkrishnavaid" title="Answering Questions">💬</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://kasroudra.github.io"><img src="https://avatars.githubusercontent.com/u/78908440?v=4?s=100" width="100px;" alt="KasRoudra"/><br /><sub><b>KasRoudra</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=KasRoudra" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://telegram.dog/AlbertEinstein_TG"><img src="https://avatars.githubusercontent.com/u/73480087?v=4?s=100" width="100px;" alt="Albert Einstein"/><br /><sub><b>Albert Einstein</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=AlbertEinsteinTG" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SurajPratap10"><img src="https://avatars.githubusercontent.com/u/92919173?v=4?s=100" width="100px;" alt="Suraj Pratap"/><br /><sub><b>Suraj Pratap</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=SurajPratap10" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://lightmap.dev"><img src="https://avatars.githubusercontent.com/u/40917760?v=4?s=100" width="100px;" alt="Sai Teja"/><br /><sub><b>Sai Teja</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=saiteja13427" title="Code">💻</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=saiteja13427" title="Documentation">📖</a> <a href="#maintenance-saiteja13427" title="Maintenance">🚧</a> <a href="#ideas-saiteja13427" title="Ideas, Planning, & Feedback">🤔</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://anirudhpanda.in/"><img src="https://avatars.githubusercontent.com/u/66218496?v=4?s=100" width="100px;" alt="Anirudh Panda"/><br /><sub><b>Anirudh Panda</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=AnirudhPanda" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://hidayat7z.github.io"><img src="https://avatars.githubusercontent.com/u/63554016?v=4?s=100" width="100px;" alt="Md Hidayat Rasool"/><br /><sub><b>Md Hidayat Rasool</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=hidayat7z" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/siddhantsadangi/"><img src="https://avatars.githubusercontent.com/u/41324509?v=4?s=100" width="100px;" alt="Siddhant Sadangi"/><br /><sub><b>Siddhant Sadangi</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=SiddhantSadangi" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://anoopvarghese.in/"><img src="https://avatars.githubusercontent.com/u/59723767?v=4?s=100" width="100px;" alt="Anoop V"/><br /><sub><b>Anoop V</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=vanoop729" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/aash1999"><img src="https://avatars.githubusercontent.com/u/39939476?v=4?s=100" width="100px;" alt="Aakash Singh"/><br /><sub><b>Aakash Singh</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=aash1999" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://aherrera3.github.io/"><img src="https://avatars.githubusercontent.com/u/52289646?v=4?s=100" width="100px;" alt="Angélica Herrera Alba"/><br /><sub><b>Angélica Herrera Alba</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=aherrera3" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://davidminkovski.com"><img src="https://avatars.githubusercontent.com/u/1609264?v=4?s=100" width="100px;" alt="David Minkovski"/><br /><sub><b>David Minkovski</b></sub></a><br /><a href="#ideas-dminkovski" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=dminkovski" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://cdigruttola.it"><img src="https://avatars.githubusercontent.com/u/9153905?v=4?s=100" width="100px;" alt="Carmine Di Gruttola"/><br /><sub><b>Carmine Di Gruttola</b></sub></a><br /><a href="#ideas-cdigruttola" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-cdigruttola" title="Promotion">📣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Vyomrana02"><img src="https://avatars.githubusercontent.com/u/87069619?v=4?s=100" width="100px;" alt="Vyom Rana"/><br /><sub><b>Vyom Rana</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=Vyomrana02" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/parthrc"><img src="https://avatars.githubusercontent.com/u/101104958?v=4?s=100" width="100px;" alt="Parth Chawande"/><br /><sub><b>Parth Chawande</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=parthrc" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/0Armaan025"><img src="https://avatars.githubusercontent.com/u/104704093?v=4?s=100" width="100px;" alt="Armaan"/><br /><sub><b>Armaan</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=0Armaan025" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://varundhand.netlify.app/"><img src="https://avatars.githubusercontent.com/u/110025628?v=4?s=100" width="100px;" alt="Varun Dhand"/><br /><sub><b>Varun Dhand</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=varundhand" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://vjspranav.dev"><img src="https://avatars.githubusercontent.com/u/17949836?v=4?s=100" width="100px;" alt="VJS Pranavasri"/><br /><sub><b>VJS Pranavasri</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=vjspranav" title="Code">💻</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://rahulkush1.github.io/"><img src="https://avatars.githubusercontent.com/u/90745824?v=4?s=100" width="100px;" alt="Rahul Kushwaha"/><br /><sub><b>Rahul Kushwaha</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=Rahulkush1" title="Code">💻</a></td>
-    </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Adamou02"><img src="https://avatars.githubusercontent.com/u/42783707?v=4?s=100" width="100px;" alt="Adam Bouhrara"/><br /><sub><b>Adam Bouhrara</b></sub></a><br /><a href="https://github.com/ashutosh1919/masterPortfolio/commits?author=Adamou02" title="Code">💻</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-# References 👏🏻
-
-- Some Design and Implementation Ideas are taken from [Saad Pasta's Portfolio Project](https://github.com/saadpasta/developerFolio).
-- The Logo of MasterPortfolio is inspired from [prettier-logo](https://github.com/prettier/prettier-logo) for [prettier](https://github.com/prettier/prettier) designed by @ianstormtaylor.
+<small><small>Logos by <a href="https://icons8.com">Icons8</a> & <a href="https://simpleicons.org/">SimpleIcons</a></small></small>
